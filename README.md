@@ -41,7 +41,7 @@ vim /etc/fstab
 
 
 ```
-10.10.1.8:/volume2/PT /pt   nfs 10.10.1.8:/volume2/PT /pt nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
+10.10.1.8:/volume2/PT /pt   nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
 ```
 
 # 第二部分
