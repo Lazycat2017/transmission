@@ -70,6 +70,8 @@ sh transmission.sh
 
 ```
 chmod 777 /pt/
+mkdir /pt/torrent
+chmod 777 /pt/torrent
 ```
 
 ### Transmission主题美化
@@ -118,7 +120,7 @@ tasks:
     rss: http://bt.3dmgame.com/rss.php
     template: default
     accept_all: yes
-    download: /pt/
+    download: /pt/torrent
     transmission:
       path: /pt/
 templates:
