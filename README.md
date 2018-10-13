@@ -69,9 +69,7 @@ sh transmission.sh
 			
 
 ```
-chmod 777 /pt/
-mkdir /pt/torrent
-chmod 777 /pt/torrent
+chmod 777 /pt/ && mkdir -p /pt/torrent && chmod 777 /pt/torrent
 ```
 
 ### Transmission主题美化
