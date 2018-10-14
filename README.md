@@ -113,6 +113,10 @@ vim /root/.flexget/config.yml
 ```
 
 ```
+:set paste
+```
+
+```
 tasks:
   whsir:
     rss: http://bt.3dmgame.com/rss.php
