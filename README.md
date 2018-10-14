@@ -7,7 +7,7 @@ apt update
 
 
 ```
-apt install vim htop -y
+apt install vim htop wget curl -y
 ```
 
 ```
