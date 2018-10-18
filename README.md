@@ -216,3 +216,7 @@ ulimit -Sn 4096
 ulimit -Hn 8192
 ```
 
+
+# 视频教程
+
+https://youtu.be/F7W3rlAdTH0
