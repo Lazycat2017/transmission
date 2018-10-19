@@ -186,6 +186,11 @@ command=python /usr/local/bin/flexget daemon start
 user=root
 autostart=true
 autorestart=true
+[program:transmission-daemon]
+command=/usr/bin/transmission-daemon --foreground --config-dir /etc/transmission-daemon
+user=root
+autostart=true
+autorestart=true
 ```
 
 ```
